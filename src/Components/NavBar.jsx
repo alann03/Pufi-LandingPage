@@ -14,7 +14,7 @@ const NavCont = styled.nav`
   z-index: 1;
   width: 100%;
   padding-top: 1%;
-  /* box-shadow: inset 0px 22px 37px black; */
+  box-shadow: inset 0px 88px 43px -20px rgb(0 0 0 / 25%);
 
   .navTitle {
     display: flex;
